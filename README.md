@@ -1,6 +1,6 @@
 Here is a repo I created to help me understand and reinforce the concept of Ajax. It's basically a clone of three files that enabled me to see the code and fool around with it a bit. An example tutorial can be found here: https://courses.wesbos.com/account/access/665f9eaeff7622bc367f9bb6/view/194130156.
 
-For those who want a quick understanding of the concept, I created this mini explanation.
+For those who want a quick understanding of the concept, I created a mini explanation below.
 
 ## Ajax: The Silent Workhorse of the Web
 
