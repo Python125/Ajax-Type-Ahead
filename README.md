@@ -1,8 +1,9 @@
 Here is a repo I created to help me understand and reinforce the concept of Ajax. It's basically a clone of three files that enabled me to see the code and fool around with it a bit. An example tutorial can be found here: https://courses.wesbos.com/account/access/665f9eaeff7622bc367f9bb6/view/194130156.
 
-For those who want a quick understand of the concept, I created this mini explanation.
+For those who want a quick understanding of the concept, I created this mini explanation.
 
 ## Ajax: The Silent Workhorse of the Web
+
 ### What is Ajax?
 
 Ajax, an acronym for Asynchronous JavaScript and XML, is a technique for creating interactive web applications. Essentially, it allows web pages to communicate with servers without the need for a full page reload. Imagine your web page as a living, breathing organism. Ajax is its nervous system, enabling it to respond to stimuli (user actions) without the entire body shutting down and restarting.
