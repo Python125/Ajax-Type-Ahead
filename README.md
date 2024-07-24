@@ -36,14 +36,17 @@ While we can't show a direct visual comparison of the webpage itself, we can rep
 Opens in a new window
 blog.hubspot.com
 basic webpage with a button
-Before Ajax:
 
+Before Ajax:
+![image](/Before%20Ajax.png)
 User clicks the button.
 Entire page reloads, showing new content.
 Opens in a new window
 www.researchgate.net
 diagram showing a full page reload
+
 After Ajax:
+![image](/After%20Ajax.png)
 
 User clicks the button.
 Ajax request is sent to the server.
