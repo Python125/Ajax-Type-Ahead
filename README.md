@@ -39,20 +39,17 @@ basic webpage with a button
 
 Before Ajax:
 ![image](/Before%20Ajax.png)
+
 User clicks the button.
 Entire page reloads, showing new content.
-Opens in a new window
-www.researchgate.net
-diagram showing a full page reload
 
 After Ajax:
-![image](/After%20Ajax.png)
 
 User clicks the button.
 Ajax request is sent to the server.
 Server processes the request and returns data.
 Page content is updated without reloading.
-Opens in a new window
-learn.microsoft.com
-diagram showing an Ajax request, server response, and partial page update
+
+![image](/After%20Ajax.png)
+
 As you can see, the visual difference in the webpage itself might be minimal or nonexistent. The real power of Ajax lies in the improved user experience and efficiency achieved through background communication and partial updates.
